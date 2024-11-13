@@ -1,5 +1,7 @@
 # 🎮 Multiplayer Number Guessing Game
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A Python-based interactive multiplayer number guessing game that combines strategy, luck, and competitive fun!
 
 ## 🌟 Features
